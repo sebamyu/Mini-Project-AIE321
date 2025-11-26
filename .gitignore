@@ -1,0 +1,11 @@
+# Ignore credentials (สำคัญมาก ห้ามลืม!)
+credentials.json
+
+# Ignore system files
+__pycache__/
+*.pyc
+.DS_Store
+
+# Ignore virtual environment (ถ้ามี)
+venv/
+env/

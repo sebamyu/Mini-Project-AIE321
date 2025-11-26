@@ -1,0 +1,7 @@
+pandas
+sqlalchemy
+psycopg2-binary
+gspread
+gspread-dataframe
+google-auth
+oauth2client
